@@ -1,0 +1,56 @@
+[
+  {
+    "region": "Places To Go",
+    "country": "Africa",
+    "destinations": [
+      {
+        "place_name": "Morocco",
+        "article_title": "Solo traveler’s journey through Marrakesh",
+        "article_url": "https://www.united.com/en/us/hemispheres/places-to-go/africa/morocco/marrakesh-solo-travel.html",
+        "hero_image": null,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "region": "Places To Go",
+    "country": "Asia",
+    "destinations": [
+      {
+        "place_name": "China",
+        "article_title": "Top 5 historical sites in Beijing",
+        "article_url": "https://www.united.com/en/us/hemispheres/places-to-go/asia/china/beijing-history.html",
+        "hero_image": null,
+        "description": ""
+      },
+      {
+        "place_name": "China",
+        "article_title": "Three perfect dishes: Chengdu",
+        "article_url": "https://www.united.com/en/us/hemispheres/places-to-go/asia/china/chengdu-food.html",
+        "hero_image": null,
+        "description": ""
+      },
+      {
+        "place_name": "Hong Kong",
+        "article_title": "Three Perfect Days: Hong Kong",
+        "article_url": "https://www.united.com/en/us/hemispheres/places-to-go/asia/hong-kong/three-perfect-days-hong-kong.html",
+        "hero_image": null,
+        "description": ""
+      },
+      {
+        "place_name": "India",
+        "article_title": "Three perfect dishes: Delhi",
+        "article_url": "https://www.united.com/en/us/hemispheres/places-to-go/asia/india/delhi-food.html",
+        "hero_image": null,
+        "description": ""
+      },
+      {
+        "place_name": "Japan",
+        "article_title": "An introvert's guide to Tokyo",
+        "article_url": "https://www.united.com/en/us/hemispheres/places-to-go/asia/japan/tokyo-for-introverts.html",
+        "hero_image": null,
+        "description": ""
+      }
+    ]
+  }
+]
