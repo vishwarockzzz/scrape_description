@@ -1,0 +1,45 @@
+{
+    "places_to_go": [
+        {
+            "location": {
+                "continent": "Africa",
+                "country": "Morocco",
+                "city": "Marrakesh"
+            },
+            "metadata": {
+                "title": "Solo traveler's journey through Marrakesh",
+                "url": "https://www.united.com/en/us/hemispheres/places-to-go/africa/morocco/marrakesh-solo-travel.html",
+                "author": "N/A",
+                "last_updated": "2026-02-06 16:03:00",
+                "category": "Places to Go"
+            },
+            "content": {
+                "summary": "Traveling alone requires some adjustment, but it results in one of the most memorable experiences of your life. Here's how to solo travel to Marrakesh. Alone in Marrakesh, the author discovered a city that surprises and delights — where winding souks and vibrant night markets reward curiosity and courage.",
+                "full_text": "The author recounts her journey starting from a moment of hesitation upon landing in Marrakesh. She describes the old city's narrow alleys, her first night meeting a friend at a hidden riad restaurant, and the realization that the city \"looks out for you.\" She explores Jemaa el-Fnaa's night market, sips tea overlooking the city, and eventually finds stillness in the Agafay Desert and Essaouira's Atlantic coast. The experience is summarized as \"liberating and profoundly connective,\" emphasizing the importance of curiosity and trust when traveling solo in Morocco. The Medina is a UNESCO World Heritage site enclosed by rose-colored walls from the 12th century. The author describes the initial hesitation of navigating the maze-like alleys, eventually finding trust in local guides and reaching hidden gems like Restaurant Casa Lalla. The experience reshaped her perspective on safety and the communal nature of the city. The city's pulse is most alive in the souks and the main square, Jemaa el-Fnaa. The author details the sensory overload of the night market—tasting harira soup, hearing the pungi, and seeing the complex, chaotic life of the vendors and artisans. Despite the chaos, the author found peace in sipping mint tea on the rooftop of Cafe Restaurant Argana and wandering through the ornate Dar El Bacha palace. She notes a regret of skipping the traditional hammam experience. The journey extended to the Agafay Desert for a glamping retreat and the coastal town of Essaouira. Essaouira is described as having a more laid-back pace, famous for its fresh seafood and dark golden shores.",
+                "headlines": [
+                    "Navigating the Medina with curiosity",
+                    "Immersing into the souks",
+                    "Finding quiet moments",
+                    "Venturing beyond Marrakesh",
+                    "What I learned about traveling through Marrakesh alone"
+                ],
+                "key_points": [
+                    "Stay in the Medina in riads like Elegancia Riad Boutique & SPA for a calm retreat",
+                    "Save phone numbers and use text for guidance - connectivity is crucial",
+                    "Pack respectful lightweight layers and comfortable walking shoes",
+                    "Group excursions are better for desert trips and longer distances"
+                ]
+            },
+            "media": {
+                "main_image": "https://media.united.com/assets/m/9ea85e9db226da7/original/IMG_5741_Cropped_Hero__1996x1060.jpg",
+                "all_images": [
+                    "https://media.united.com/assets/m/9ea85e9db226da7/original/IMG_5741_Cropped_Hero__1996x1060.jpg",
+                    "https://media.united.com/assets/m/ffcb32175b2e913/original/shutterstock_2421566635_In_Article_961x539.jpg",
+                    "https://media.united.com/assets/m/6b2b0248aa86a684/original/shutterstock_2553304895_In_Article_961x539.jpg",
+                    "https://media.united.com/assets/m/53ebcd28cdbd9fab/original/shutterstock_2575048123_In_Article_961x539.jpg",
+                    "https://media.united.com/assets/m/6eb488eb0f4336fa/original/shutterstock_1391196548_In_Article_961x539.jpg"
+                ]
+            }
+        }
+    ]
+}
